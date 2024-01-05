@@ -1,3 +1,7 @@
+using WinFormsApp1._19;
+using WinFormsApp1._20;
+using WinFormsApp1._21;
+using WinFormsApp1._22;
 using WinFormsApp1._23;
 using WinFormsApp1._24;
 using WinFormsApp1._25;
@@ -17,7 +21,7 @@ namespace WinFormsApp1
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form23());
+            Application.Run(new Form19());
         }
     }
 }
